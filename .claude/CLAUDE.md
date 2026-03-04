@@ -110,9 +110,12 @@ entries and surface them.
 
 ## Article Registry
 
-Maintain article-registry.md in the project root as a persistent file.
-Update it when articles are created, when status changes, and at
-checkpoints.
+Maintain article-registry.md in the project root as the current month's
+registry. Update it when articles are created, when status changes, and
+at checkpoints.
+
+When a month ends, archive the file to .claude/registry/YYYY-MM.md and
+reset article-registry.md for the new month.
 
 Before working on any section, confirm which article and section are
 active. Do not blend material across articles without explicit approval.
