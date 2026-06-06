@@ -1,5 +1,3 @@
-# codewithbre
-
 **Software Engineer | Agentic AI Engineer**
 
 Frontend-focused software engineer building agentic AI solutions, centering architecture, accessibility, and user experience.
